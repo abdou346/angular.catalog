@@ -48,5 +48,12 @@
 
 ![image](https://user-images.githubusercontent.com/101510983/206922145-5a50d39f-704c-4ca9-a1cc-ed65cbd20569.png)
 
+# II. Frontend Angular Client :
+## 1 Login screen 
 
+![image](https://user-images.githubusercontent.com/101510983/206923607-8e842b94-d208-4dc6-8cbe-fb68db9037ec.png)
+
+## 2 Show all products 
+
+![image](https://user-images.githubusercontent.com/101510983/206923734-2a653e3a-5b6a-4fdf-a758-193c372adf04.png)
 
