@@ -1,40 +1,36 @@
 #                                                         Spring cloud and angular front-end
 
 
-## Sommaire
+- [Spring cloud and angular front-end](#spring-cloud-and-angular-front-end)
+- [I. Backend :](#i-backend--)
+  * [1. use case](#1-use-case)
+  * [2 Inventory service - get all products](#2-inventory-service---get-all-products)
+  * [3 Inventory service - get product by ID](#3-inventory-service---get-product-by-id)
+  * [4 Customer Service - get All Customers](#4-customer-service---get-all-customers)
+  * [5 Customer Service - get Customer by ID](#5-customer-service---get-customer-by-id)
+  * [6 Bill Service - get bills](#6-bill-service---get-bills)
+  * [7 Bill Service - get bill by id](#7-bill-service---get-bill-by-id)
+  * [8 Eureka Service](#8-eureka-service)
+- [II. Frontend Angular Client :](#ii-frontend-angular-client--)
+  * [1 Login screen](#1-login-screen)
+  * [2 Show all products](#2-show-all-products)
+  * [3 Edit products](#3-edit-products)
+  * [4 Delete products](#4-delete-products)
+  * [5 Search for a product](#5-search-for-a-product)
+  * [6 New Product](#6-new-product)
+  * [7 Show all customer](#7-show-all-customer)
+  * [8 Edit Customer](#8-edit-customer)
+  * [9 Delete Customer](#9-delete-customer)
+  * [10 Search Customer](#10-search-customer)
+  * [11 New Customer](#11-new-customer)
+  * [12 Show Bills](#12-show-bills)
+- [III Secured Angular Client with keycloak](#iii-secured-angular-client-with-keycloak)
+  * [1 Setup](#1-setup)
+  * [2 Postman](#2-postman)
+  * [3 Refresh Token](#3-refresh-token)
+  * [4 Client Auth Credentials](#4-client-auth-credentials)
 
- - [Backend](#i.-backend-:)
- - [Frontend Angular Client](#II.-Frontend-Angular-Client-:)
- - [Sécurité](#sécurité)
- - [Inscription GitLab](#inscription)
- - [Créer un projet](#créer-un-projet)
- - [Fourcher (forker) un projet](#fourcher-forker-un-projet)
- - [Gestion des fichiers](#gestion-des-fichiers)
- - [Demandes de fusion](#demandes-de-fusion)
- - [Le format Markdown](#am%C3%A9liorer-ses-textes-avec-le-format-markdown)
- - [Gestion des issues](#les-issues)
- - [FAQ](#faq)
- - [Liens](#liens)
- - [Glossaire](#glossaire)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # I. Backend :
