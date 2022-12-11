@@ -57,3 +57,32 @@
 
 ![image](https://user-images.githubusercontent.com/101510983/206923734-2a653e3a-5b6a-4fdf-a758-193c372adf04.png)
 
+## 3 Edit products 
+
+![image](https://user-images.githubusercontent.com/101510983/206923795-26a19423-e941-4acd-878e-8a0ce1e3df11.png)
+
+## 4 Delete products 
+
+![image](https://user-images.githubusercontent.com/101510983/206923844-354757e5-d805-4aa8-a5f8-1162b36b50fd.png)
+
+
+## 5 Delete products 
+
+![image](https://user-images.githubusercontent.com/101510983/206923882-c7a5ec5b-cda4-4d2d-a357-03977877a624.png)
+
+
+## 6 Search for a product
+
+![image](https://user-images.githubusercontent.com/101510983/206923941-e4a48d4a-5be2-47e9-8c73-2013aa954bff.png)
+
+
+## 7 New Product
+
+![image](https://user-images.githubusercontent.com/101510983/206923990-6c5d704c-f9fc-465f-98fd-173eafcf609a.png)
+
+![image](https://user-images.githubusercontent.com/101510983/206924032-52c194f3-e533-4eff-aebf-4da34e40ad28.png)
+
+
+
+
+
