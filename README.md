@@ -3,8 +3,8 @@
 
 ## Sommaire
 
- - [Qu'est-ce que c'est, à quoi ça sert ?](#I.-Backend-:)
- - [Comment fonctionne GIT](#comment-fonctionne-git)
+ - [Backend](#I.-Backend-:)
+ - [Frontend Angular Client](#II.-Frontend-Angular-Client-:)
  - [Sécurité](#sécurité)
  - [Inscription GitLab](#inscription)
  - [Créer un projet](#créer-un-projet)
