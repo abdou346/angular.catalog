@@ -30,7 +30,6 @@
   * [3 Refresh Token](#3-refresh-token)
   * [4 Client Auth Credentials](#4-client-auth-credentials)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # I. Backend :
