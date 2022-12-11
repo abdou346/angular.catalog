@@ -3,7 +3,7 @@
 
 ## Sommaire
 
- - [Backend](#I.-Backend-:)
+ - [Backend](#i.-backend-:)
  - [Frontend Angular Client](#II.-Frontend-Angular-Client-:)
  - [Sécurité](#sécurité)
  - [Inscription GitLab](#inscription)
