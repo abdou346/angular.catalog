@@ -9,13 +9,28 @@
 ![image](https://user-images.githubusercontent.com/101510983/206921870-72327b83-9f52-45a3-a165-a258fec9ebfc.png)
 
 
-## 3 Customer Service - get All Customers
+
+## 3 Inventory service - get product by ID 
+-http://localhost:8888/PRODUCT-SERVICE/products/id
+
+![image](https://user-images.githubusercontent.com/101510983/206922542-ff3bc375-78ba-4956-92f4-0cc57ac762b8.png)
+
+
+
+## 4 Customer Service - get All Customers
 -http://localhost:8888/CUSTOMERS-SERVICE/customers
 
 ![image](https://user-images.githubusercontent.com/101510983/206921889-6f2333f5-b2ac-4d27-839b-c0989720c140.png)
 
-## 4 Bill Service - get bills
--http://localhost:8888/BILLING-SERVICE/fullBills
+
+## 5 Customer Service - get Customer by ID
+-http://localhost:8888/CUSTOMERS-SERVICE/customers/id
+
+![image](https://user-images.githubusercontent.com/101510983/206922673-eb757211-bc70-4d62-a1c2-8248050f3133.png)
+
+
+## 6 Bill Service - get bills
+-http://localhost:8888/BILLING-SERVICE/fullBill/id
 
 ![image](https://user-images.githubusercontent.com/101510983/206922042-3f83dfcb-cb8e-4227-ae03-b5013cbf62f5.png)
 
