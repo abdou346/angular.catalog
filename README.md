@@ -3,7 +3,7 @@
 
 ## Sommaire
 
- - [Qu'est-ce que c'est, à quoi ça sert ?](#I. Backend :)
+ - [Qu'est-ce que c'est, à quoi ça sert ?](#I.-Backend-:)
  - [Comment fonctionne GIT](#comment-fonctionne-git)
  - [Sécurité](#sécurité)
  - [Inscription GitLab](#inscription)
