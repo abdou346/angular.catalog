@@ -83,6 +83,38 @@
 ![image](https://user-images.githubusercontent.com/101510983/206924032-52c194f3-e533-4eff-aebf-4da34e40ad28.png)
 
 
+## 8 Show all customer
+
+![image](https://user-images.githubusercontent.com/101510983/206924185-35323819-2215-4df8-be55-98bd6b6c452f.png)
+
+
+
+## 9 Edit Customer
+
+![image](https://user-images.githubusercontent.com/101510983/206924228-151e1ed2-e1d6-406d-8849-34da1dc34937.png)
+
+
+## 10 Delete Customer 
+
+![image](https://user-images.githubusercontent.com/101510983/206924348-36b8b439-311d-4c9d-952f-c69ad8ba4d86.png)
+
+
+## 11 Delete Customer 
+
+![image](https://user-images.githubusercontent.com/101510983/206924393-66f44274-38b3-4f4a-9bd8-41562c45735d.png)
+
+
+## 11  Customer 
+
+
+
+
+
+
+
+
+
+
 
 
 
