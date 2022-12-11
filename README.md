@@ -1,5 +1,42 @@
 #                                                         Spring cloud and angular front-end
 
+
+## Sommaire
+
+ - [Qu'est-ce que c'est, à quoi ça sert ?](#I. Backend :)
+ - [Comment fonctionne GIT](#comment-fonctionne-git)
+ - [Sécurité](#sécurité)
+ - [Inscription GitLab](#inscription)
+ - [Créer un projet](#créer-un-projet)
+ - [Fourcher (forker) un projet](#fourcher-forker-un-projet)
+ - [Gestion des fichiers](#gestion-des-fichiers)
+ - [Demandes de fusion](#demandes-de-fusion)
+ - [Le format Markdown](#am%C3%A9liorer-ses-textes-avec-le-format-markdown)
+ - [Gestion des issues](#les-issues)
+ - [FAQ](#faq)
+ - [Liens](#liens)
+ - [Glossaire](#glossaire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # I. Backend :
 ## 1. use case
 
