@@ -99,12 +99,19 @@
 ![image](https://user-images.githubusercontent.com/101510983/206924348-36b8b439-311d-4c9d-952f-c69ad8ba4d86.png)
 
 
-## 11 Delete Customer 
+## 12 Search Customer 
 
 ![image](https://user-images.githubusercontent.com/101510983/206924393-66f44274-38b3-4f4a-9bd8-41562c45735d.png)
 
 
-## 11  Customer 
+## 13 New Customer 
+
+![image](https://user-images.githubusercontent.com/101510983/206924512-b94b94e8-3d18-4329-acfc-0e49cadc7a62.png)
+
+![image](https://user-images.githubusercontent.com/101510983/206924543-8c6cf554-0e5a-424b-894c-40341bc4bcaa.png)
+
+
+
 
 
 
